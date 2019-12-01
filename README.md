@@ -1,5 +1,5 @@
 # curency_data_dump
-A snapshot of freely available currency data for trading system testing.
+A snapshot of freely available currency data for trading system testing.  It contains EUR/USD currency pair data from between the dates of 2000 and 2013.
 
 This data was downloaded primarily from gain capital when they freely made the data available for system testing.  The original data, found in .csv files, had many different date formats, and wasn't very consistent.  From about 2000-2004 it's not particularly good at all, and is sporadic at best.  From about 2004 to when the data-set stops, 2013, it gets better.  But it is clearly data that has been sourced from multiple sources, and sometimes it's evedient that there are timing issues between the sources.  A few years ago, they stopped offering the service.  The website doesn't even exist anymore.
 
